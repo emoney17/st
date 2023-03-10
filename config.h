@@ -8,8 +8,8 @@
 static char *font = "Liberation Mono:pixelsize=15:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"Hack Nerd Font:pixelsize=15:antialias=true:autohint=true",
-/*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
+	"Hack Nerd Font Mono:pixelsize=15:antialias=true:autohint=true",
+	"JoyPixels:pixelsize=15:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;
